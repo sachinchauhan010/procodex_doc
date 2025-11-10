@@ -1,36 +1,55 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# [Your App Name] Documentation
 
-## Getting Started
+> Open-source documentation for [Your App Name] - A [brief description]
 
-First, run the development server:
+## 🚀 Quick Start
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+[Installation and setup instructions]
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📖 Documentation
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **[Getting Started](docs/getting-started/)** - Installation, configuration, first steps
+- **[API Reference](docs/api/)** - Complete API documentation
+- **[Guides](docs/guides/)** - Tutorials and best practices
+- **[Examples](docs/examples/)** - Real-world code examples
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🏗️ Architecture
 
-## Learn More
+Learn about the system design and architecture [here](ARCHITECTURE.md)
 
-To learn more about Next.js, take a look at the following resources:
+## 🤝 Contributing
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+We welcome contributions to improve the documentation! See [CONTRIBUTING.md](CONTRIBUTING.md)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📝 License
 
-## Deploy on Vercel
+This documentation is released under [MIT License](LICENSE)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**Note:** The application itself is proprietary. This repository contains only documentation.# [Your App Name] Documentation
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+> Open-source documentation for [Your App Name] - A [brief description]
+
+## 🚀 Quick Start
+
+[Installation and setup instructions]
+
+## 📖 Documentation
+
+- **[Getting Started](docs/getting-started/)** - Installation, configuration, first steps
+- **[API Reference](docs/api/)** - Complete API documentation
+- **[Guides](docs/guides/)** - Tutorials and best practices
+- **[Examples](docs/examples/)** - Real-world code examples
+
+## 🏗️ Architecture
+
+Learn about the system design and architecture [here](ARCHITECTURE.md)
+
+## 🤝 Contributing
+
+We welcome contributions to improve the documentation! See [CONTRIBUTING.md](CONTRIBUTING.md)
+
+## 📝 License
+
+This documentation is released under [MIT License](LICENSE)
+
+**Note:** The application itself is proprietary. This repository contains only documentation.
